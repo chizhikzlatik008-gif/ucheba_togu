@@ -3,6 +3,6 @@ using namespace std;
 int main() {
 	int a;
 	a = 5;
-cout << "wforld 1"
+cout << "wforld 2"
 вараш
 return 0;}
